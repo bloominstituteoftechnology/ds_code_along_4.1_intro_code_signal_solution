@@ -7,7 +7,7 @@
 ## Set Up
 
 1. Clone this repository.
-2. Execute the scripts using Python. Example: `python3 1_2D_Arrays.py`.
+2. Execute the scripts using Python. Example: `python3 array_sum.py`.
 
 **NOTE:**
 
